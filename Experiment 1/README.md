@@ -10,6 +10,10 @@ Learned how to deploy a git repository on netlify
 _________________________________________________________________
 A Single Page Application (SPA) is a web application where the browser loads one HTML page only once. After that, all interactions happen without reloading the page.
 _________________________________________________________________
+
+<img src="./Screenshots/home page.png" alt="Image" width="700">
+<img src="./Screenshots/about page.png" alt="Image" width="700">
+<img src="./Screenshots/contact page.png" alt="Image" width="700">
 Example:
 
 When you open a website like Gmail or Instagram, the page loads once.
@@ -37,4 +41,3 @@ SPA gives a faster and smoother user experience because it avoids repeated page 
 
 
 
-Compare with Claude
