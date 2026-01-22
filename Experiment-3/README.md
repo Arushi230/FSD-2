@@ -19,9 +19,9 @@ Learned how to organize components for routing in React
 React Router DOM
 React Router DOM is a library used in React applications to handle navigation between different pages without refreshing the browser. It helps in building Single Page Applications (SPA) with multiple views.
 
-<img src="./Screenshots/home%20page.png" alt="Home Page" width="700" />
-<img src="./Screenshots/about%20us%20page.png" alt="About Page" width="700" />
-<img src="./Screenshots/contact%20us%20page.png" alt="Contact Page" width="700" />
+<img src="./screenshots/home page.png"  width="700" />
+<img src="./screenshots/about us page.png"  width="700" />
+<img src="./screenshots/contact us page.png"  width="700" />
 
 Example:
 When you open a React application using React Router:
