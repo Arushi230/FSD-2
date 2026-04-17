@@ -1,16 +1,35 @@
-# React + Vite
+# Experiment 16: Unit Testing for Frontend and Backend Modules
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This experiment demonstrates how to perform **unit testing** for both backend and frontend modules of a web application. Unit testing ensures that individual components of the system work correctly before integrating them into the complete application.
 
-Currently, two official plugins are available:
+The backend is tested using **pytest**, while the frontend React component is tested using **Vitest** and **React Testing Library**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Technologies Used
+- Python
+- Flask
+- React
+- Pytest
+- Vitest
+- React Testing Library
+- Node.js
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Learning Outcomes
+- Understand the concept of unit testing.
+- Write automated tests for backend functions.
+- Test React components using modern testing tools.
+- Identify and fix bugs early during development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Screenshots
+Frontend test results:- ![frontend testing](<Screenshot (410).png>)
+![frontend coverage testing](<Screenshot (411).png>)
+![vite successfully run](<Screenshot (412).png>)
+Backend test results:-![5 test cases passed](<Screenshot (409).png>)
+GitHub Actions workflow execution:- ![gitflow action passed](<Screenshot (413).png>)
